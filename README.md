@@ -1,2 +1,1 @@
-# IAStudy
-this is IA study repository
+学习计划和知识点摘要
